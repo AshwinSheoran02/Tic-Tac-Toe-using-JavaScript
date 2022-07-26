@@ -41,9 +41,9 @@ h1 {
     font-size: 20px;
     cursor: pointer;
     margin:auto;
-    position: absolute;
-    /* top: 0px; */
-    left: 32%;
+/*     position: absolute;
+    /* top: 0px; 
+    left: 32%; */
 }
 
 /* Player turn space */
